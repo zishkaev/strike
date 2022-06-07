@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5864766637151062900
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4510564466881730306, guid: 35202eede04ab0146af78c926f72c300, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4510564466881730306, guid: 35202eede04ab0146af78c926f72c300, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4510564466881730306, guid: 35202eede04ab0146af78c926f72c300, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4510564466881730306, guid: 35202eede04ab0146af78c926f72c300, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4510564466881730306, guid: 35202eede04ab0146af78c926f72c300, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4510564466881730306, guid: 35202eede04ab0146af78c926f72c300, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4510564466881730306, guid: 35202eede04ab0146af78c926f72c300, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4510564466881730306, guid: 35202eede04ab0146af78c926f72c300, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4510564466881730306, guid: 35202eede04ab0146af78c926f72c300, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4510564466881730306, guid: 35202eede04ab0146af78c926f72c300, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4510564466881730306, guid: 35202eede04ab0146af78c926f72c300, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5356995602830085262, guid: 35202eede04ab0146af78c926f72c300, type: 3}
+      propertyPath: m_Name
+      value: Sniper
+      objectReference: {fileID: 0}
+    - target: {fileID: 7252929743340164362, guid: 35202eede04ab0146af78c926f72c300, type: 3}
+      propertyPath: type
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7252929743340164362, guid: 35202eede04ab0146af78c926f72c300, type: 3}
+      propertyPath: projectile
+      value: 
+      objectReference: {fileID: 3637440686167232015, guid: defd51fb9d95e1b43978954904355541, type: 3}
+    - target: {fileID: 7252929743340164362, guid: 35202eede04ab0146af78c926f72c300, type: 3}
+      propertyPath: rateOfFire
+      value: 50
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 35202eede04ab0146af78c926f72c300, type: 3}

@@ -18,7 +18,6 @@ public class SimpleTouchController : MonoBehaviour {
 	private bool touchPresent = false;
 	private Vector2 movementVector;
 
-
 	public Vector2 GetTouchPosition
 	{
 		get { return movementVector;}
@@ -55,7 +54,9 @@ public class SimpleTouchController : MonoBehaviour {
 				TouchEvent(movementVector);
 			}
 		}
-
 	}
 
+	private void OnDisable() {
+		EndDrag();
+	}
 }
